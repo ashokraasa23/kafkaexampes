@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.confluent:common-config:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/confluent/common-config/unknown/common-config-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/confluent/common-config/unknown/common-config-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/confluent/common-config/unknown/common-config-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
